@@ -1,1 +1,2 @@
 Today started learing about the git.
+my first modification into the file
